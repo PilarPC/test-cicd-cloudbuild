@@ -56,6 +56,7 @@ git init
 
 # Create a new repository on GitHub (do this via GitHub web interface first)
 # Then add your new repository as the remote origin
+# Usar la autenticación por ssh
 git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
 
 # Add all files to the new repository
